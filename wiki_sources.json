@@ -1,0 +1,10 @@
+{
+  "wiki_pages": [
+    {
+      "repo": "zhifan999/fq",
+      "pages": ["ss免费账号", "v2ray免费账号"]
+    }
+  ],
+  "exclude_prefix": ["ssr"],
+  "output_dir": "output"
+}
