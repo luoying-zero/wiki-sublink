@@ -3,7 +3,7 @@ name: Fetch Wiki Bash Code
 on:
   # 定时执行 - 每天 UTC 时间 0 点执行
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 0 * * *'
   # 也可以手动触发
   workflow_dispatch:
 
